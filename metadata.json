@@ -1,0 +1,6 @@
+{
+  "name": "Doçuras da Gomes - Confeitaria Artesanal",
+  "description": "Site comercial completo da Doçuras da Gomes: Confeitaria artesanal com bolos de pote, travessas gourmet, taças supreme, catálogo interativo e formulário de encomendas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
